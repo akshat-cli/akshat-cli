@@ -66,8 +66,11 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/akshat-cli)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatkumar.eng@gmail.com)
 
-<br/>
+<div align="center">
+      
+![snake gif](https://github.com/akshat-cli/akshat-cli/blob/output/github-snake-dark.svg)
 
+</div>
 
 ⭐️ **If you find my work useful, drop a star — it means a lot!**
 
