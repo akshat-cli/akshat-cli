@@ -1,12 +1,6 @@
 <div align="center">
 
-<!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Akshat+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;B.Tech+CSE+%7C+3rd+Year+%F0%9F%8E%93;Building+the+web%2C+one+commit+at+a+time+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=akshat-cli&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/akshat-cli?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/akshat-cli)
+# Hi there, I'm Akshat Kumar 👋
 
 </div>
 
@@ -30,9 +24,7 @@
       - "📖 Grinding DSA on LeetCode ( @akshat-cli )"
       - "🌱 Learning system design & scalable architecture"
 
-💬  ask_me_about : ["Java", "JavaScript", "React", "Node.js", "DevOps", "Git"]
 
-😄  fun_fact  : "I commit too often and push too rarely 😅"
 ```
 
 ---
@@ -65,39 +57,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat-cli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-cli&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&layout=compact&langs_count=8" width="45%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat-cli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-cli&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/akshat-cli/akshat-cli/output/snake.svg" alt="Snake animation" />
 </div>
@@ -114,11 +73,6 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   "First, solve the problem. Then, write the code." 💡       ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 ⭐️ **If you find my work useful, drop a star — it means a lot!**
 
